@@ -18,6 +18,12 @@ omics and enhancing functional interpretation in cancer, immunology, and precisi
 ## Data 
 **The training datasets for DGAT model, pre-trained model and Spatial Transcriptomics for predictions can be downloaded [here](https://drive.google.com/drive/folders/1M9gIOFjK4wBk7DEj9MrwAlV8OHEgS2BA?usp=sharing).**
 
+For prediction using pretrainde model, please download `DGAT_prediction_ST_data`, `DGAT_pretrained_models` to the same path as this Readme.
+
+For training, please download `DGAT_training_datasets` to the same path as this Readme.
+
+For reproduction, please download `DGAT_results_reproduction` to **./Reproduction/results/** before you run the scripts and notebooks.
+
 ## Installation
 The code runs on Python 3.11.
 
