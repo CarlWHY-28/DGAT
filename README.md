@@ -1,4 +1,5 @@
 ## Introduction
+### DGAT: A <u>D</u>ual-<u>G</u>raph <u>A</u>ttention Network for Inferring Spatial Protein Landscapes from <u>T</u>ranscriptomics
 Spatial transcriptomics (ST) technologies provide genome-wide mRNA profiles in tissue context 
 but lack direct protein-level measurements, which are critical for interpreting cellular function 
 and microenvironmental organization. We present DGAT (Dual-Graph Attention Network), a 
